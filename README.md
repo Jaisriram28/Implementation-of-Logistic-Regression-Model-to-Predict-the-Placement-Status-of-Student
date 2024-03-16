@@ -85,8 +85,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Yashwanth Raja Durai
-RegisterNumber: 212222040184
+Developed by: Jai Sriram S
+RegisterNumber: 212222040057
 */
 ```
 
