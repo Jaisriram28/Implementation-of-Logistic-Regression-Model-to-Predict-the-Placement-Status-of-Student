@@ -103,3 +103,5 @@ RegisterNumber: 212222040057
 ![Screenshot 2024-03-11 143633](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/dcf18bb2-74e4-4d4d-8bc2-15c14c046a30)
 ![Screenshot 2024-03-11 143703](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/0e8c886f-5294-43cd-a5ce-5ea1658a1ce2)
 
+## Result:
+Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
